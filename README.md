@@ -25,5 +25,5 @@ A simple desktop application to download TikTok videos in MP4 or MP3 format.
 ![Screenshot](screenshot.png)
 
 ## Credits
-- Developed by [Your Name](https://github.com/your-username).
+- Developed by [Your Name](https://github.com/6tab).
 - Built using `yt-dlp` and `tkinter`.
