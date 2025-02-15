@@ -16,7 +16,7 @@ A simple desktop application to download TikTok videos in MP4 or MP3 format.
 - `tkinter` (usually comes pre-installed with Python)
 
 ## Installation
-1. Clone this repository:git clone https://github.com/your-username/tiktok-downloader.git
+1. Clone this repository:git clone https://github.com/6tab/tiktok-downloader.git
 
 2. Install the required libraries: pip install -r requirements.txt
 
