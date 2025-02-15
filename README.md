@@ -9,6 +9,8 @@ A simple desktop application to download TikTok videos in MP4 or MP3 format.
 - Preview estimated file size before downloading.
 
 ## Requirements
+- You shouldn't need to download anything extra but if it doesn't work then here's what you need
+
 - Python 3.x
 - `yt-dlp` library
 - `tkinter` (usually comes pre-installed with Python)
@@ -25,5 +27,5 @@ A simple desktop application to download TikTok videos in MP4 or MP3 format.
 ![Screenshot](screenshot.png)
 
 ## Credits
-- Developed by [Your Name](https://github.com/6tab).
+- Developed by [6tab](https://github.com/6tab).
 - Built using `yt-dlp` and `tkinter`.
