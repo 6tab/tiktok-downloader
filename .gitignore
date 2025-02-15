@@ -1,0 +1,11 @@
+# PyInstaller temporary files
+build/
+dist/
+*.spec
+*.toc
+*.pyz
+*.pkg
+*.zip
+*.html
+*.txt
+localpycs/
